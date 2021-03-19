@@ -9,7 +9,7 @@
 
 body {
   background-image: url(https://www.donnu.ru/img/fon.png); /* Путь к фоновому изображению */
-
+  background-color: #fafafa;
   font-family: 'Ubuntu', sans-serif;
   min-height: 100vh;
 }
