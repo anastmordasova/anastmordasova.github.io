@@ -5,8 +5,11 @@
   box-sizing: border-box;
 }
 
+
+
 body {
-  background-color: #fafafa;
+  background-image: url(https://www.donnu.ru/img/fon.png); /* Путь к фоновому изображению */
+
   font-family: 'Ubuntu', sans-serif;
   min-height: 100vh;
 }
