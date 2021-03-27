@@ -42,6 +42,20 @@
       	"int[] array = {1,2,3,4,5};"
       ]
     },
+      {
+      "title": "Как НЕправильно  объявлять массивы?",
+      "type": "multiChoise",
+      "right": [ 2, 5, 4],
+      "img": "",
+      "variants": [
+        "int[] array = new int[];",
+      	"int[] array = int[];",	
+      	"int[] array = new int[]{1,2,3,4,5};",	
+      	"int[] array = 1,2,3,4,5;",	
+      	"int[] array = new int[5];",	
+      	"int[] array = {1,2,3,4,5};"
+      ]
+    },
     {
       "title": "Можно ли использовать оператор return в void методе?",
       "type": "singleChoise",
