@@ -29,18 +29,6 @@
       ]
     },
     {
-      "title": "Какой ?",
-      "type": "singleChoise",
-      "right": 2,
-      "img": "",
-      "variants": [
-        "1",
-        "2",
-        "3",
-        "4",
-      ]
-    },  
-    {
       "title": "Как правильно объявлять массивы?",
       "type": "multiChoise",
       "right": [ 2, 5, 4],
