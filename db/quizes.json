@@ -175,6 +175,18 @@
         "size"
       ]
     },
+     {
+      "title": "Выберите правильный вариант выделения динамической памяти под переменную X типа float:",
+      "type": "singleChoise",
+      "right": 0,
+      "img": "",
+      "variants": [
+        "float *ptr = new float; X = *ptr;",
+        "float & ptr = new float; X = & ptr;",
+        "float * ptr = &X; X = new float;"
+      ]
+    },
+
     {
       "title": "С какого ключевого слова начинается объйвление в языке С++?",
       "type": "singleChoise",
